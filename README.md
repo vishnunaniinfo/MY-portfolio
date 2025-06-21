@@ -42,3 +42,74 @@ Here you can see the output:
    cd portfolio
 2. Install the dependencies I set up:
    npm install
+Install the dependencies I set up:
+bash
+
+Collapse
+
+Wrap
+
+Run
+
+Copy
+npm install
+or
+bash
+
+Collapse
+
+Wrap
+
+Run
+
+Copy
+yarn install
+Running Locally
+Start the development server I configured:
+bash
+
+Collapse
+
+Wrap
+
+Run
+
+Copy
+npm run dev
+or
+bash
+
+yarn dev
+Open http://localhost:5173 in your browser to see my work in action.
+Deployment
+Deploy to Vercel as I did:
+bash
+
+Project Structure:
+portfolio/
+├── public/                # Contains assets like my photo and WebP images I added
+├── src/                   # Houses the React components and JSX I wrote
+│   ├── components/        # My reusable components (Header, Hero, etc.)
+│   ├── pages/             # Page components I developed
+│   └── index.jsx          # The main entry point I created
+├── pages/                 # Vercel API routes I set up (e.g., /api/og.js)
+├── tailwind.config.js     # My Tailwind CSS configuration
+├── package.json           # Dependency and script file I managed
+└── README.md              # This file I authored
+Customization
+Profile Photo: I added my photo in /public; replace it with an updated version if needed.
+Project Images: I set up /api/og for auto-generation; add custom WebP images in /public if desired.
+Content: Update project, article, and gallery data in the components I built.
+Styling: Adjust Tailwind classes I used (e.g., colors, spacing) to tweak the dark theme.
+Animations: Modify Framer Motion properties I implemented for custom effects.
+Contributing
+This is my personal creation, but I’m open to feedback! Reach out to me via email (vishnuvardhanburri19@gmail.com) or open an issue on my GitHub.
+
+Contact
+Email: vishnuvardhanburri19@gmail.com
+GitHub: vishnunaniinfo
+LinkedIn: vishnuvardhanburri
+License
+This project I built is licensed under the MIT License.
+
+© 2025 Vishnu Vardhan Burri. Created with passion and code by me.
