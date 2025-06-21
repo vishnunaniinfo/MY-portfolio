@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/vishnu-projects-0266f561/v0-new-project-z1qfobr6g3g](https://vercel.com/vishnu-projects-0266f561/v0-new-project-z1qfobr6g3g)**
+*
 
 ## Build your app
 

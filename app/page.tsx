@@ -125,7 +125,7 @@ export default function Portfolio() {
     {
       quote:
         "Vishnu's AI prototype was a game-changer for our threat detection pipeline. His innovative approach to machine learning in cybersecurity is truly exceptional. Working with him was an absolute pleasure!",
-      author: "Sarah Chen",
+      author: "sarah chen",
       position: "Senior AI Researcher",
       company: "Microsoft",
       avatar: "/clients/sarah-chen.png",
