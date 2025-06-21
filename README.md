@@ -43,18 +43,20 @@ Here you can see the output:
    2. Install the dependencies I set up
    npm install
    Running Locally
+   
    portfolio/
- ├── public/                # Contains assets like my photo and WebP images I added
- ├── src/                   # Houses the React components and JSX I wrote
- │   ├── components/        # My reusable components (Header, Hero, etc.)
- │   ├── pages/             # Page components I developed
- │   └── index.jsx          # The main entry point I created
- ├ ── pages/                 # Vercel API routes I set up (e.g., /api/og.js)
- ├─ ─ tailwind.config.js     # My Tailwind CSS configuration
- ├──  package.json           # Dependency and script file I managed
- └──  README.md              # This file I authored
 
+    public/                # Contains assets like my photo and WebP images I added
+    ├── src/                   # Houses the React components and JSX I wrote
+     ├── components/        # My reusable components (Header, Hero, etc.)
+       ├── pages/             # Page components I developed
+        index.jsx          # The main entry point I created
+     |__pages/                 # Vercel API routes I set up (e.g., /api/og.js)
+     |__age.json           # Dependency and script file I managed
+      README.md              # This file I authored
+ 
 
+___________________________________________________________________________________________________________________
 
    Customization
 Profile Photo: I added my photo in /public; replace it with an updated version if needed.
